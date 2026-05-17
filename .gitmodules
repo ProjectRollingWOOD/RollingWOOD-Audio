@@ -1,6 +1,3 @@
-[submodule "SBEMU"]
-	path = SBEMU
-	url = https://github.com/crazii/SBEMU.git
 [submodule "clownresampler"]
 	path = clownresampler
 	url = https://github.com/Clownacy/clownresampler.git
