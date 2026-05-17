@@ -1,3 +1,6 @@
 [submodule "clownresampler"]
 	path = clownresampler
 	url = https://github.com/Clownacy/clownresampler.git
+[submodule "VSBCMI"]
+	path = VSBCMI
+	url = https://github.com/drivelling-spinel/VSBCMI.git
